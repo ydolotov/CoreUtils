@@ -1,0 +1,10 @@
+framework module CoreUtils {
+  umbrella header "CoreUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module CoreUtils.__Swift {
+    exclude header "CoreUtils-Swift.h"
+}

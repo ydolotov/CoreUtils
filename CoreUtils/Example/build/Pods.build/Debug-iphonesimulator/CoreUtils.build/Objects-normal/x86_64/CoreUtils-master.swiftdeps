@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "6bd8c1469c89f2693cc78e8c3f6531f8"
+build_time: [1623834752, 751901000]
+inputs:
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/Error/AnyError.swift": [1623832481, 8653522]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/Error/BaseError.swift": [1623832481, 8836150]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/Error/ConversionError.swift": [1623832481, 8997679]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/Extensions/Date+Extension.swift": [1623832481, 9267211]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/Protocols/ErrorsTrackerProtocol.swift": [1623832481, 10151386]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/BaseClasses/Event.swift": [1623832481, 8110762]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/OtherHelpers/GeneralClosures.swift": [1623832481, 9719014]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/BaseClasses/Resolver.swift": [1623832481, 8306146]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/CoreUtils/Classes/Extensions/TimeInterval+Extension.swift": [1623832481, 9449482]

@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+CoreUtils in Pods
+Pods-CoreUtils_Example in Pods, depends on:
+CoreUtils in Pods (explicit)
+Pods-CoreUtils_Tests in Pods, depends on:
+Pods-CoreUtils_Example in Pods (explicit)

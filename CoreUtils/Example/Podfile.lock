@@ -1,0 +1,16 @@
+PODS:
+  - CoreUtils (1.0.4)
+
+DEPENDENCIES:
+  - CoreUtils (from `../`)
+
+EXTERNAL SOURCES:
+  CoreUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreUtils: f375586483cd8f231747fe72105f988617f6d70b
+
+PODFILE CHECKSUM: a9c841afc4fae6c0f61b47ab90cd220b71da4c49
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "fc82592664d572e7a0440869ba0fc673"
+build_time: [1623832816, 498995000]
+inputs:
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/Error/AnyError.swift": [1623832481, 8653549]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/Error/BaseError.swift": [1623832481, 8836161]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/Error/ConversionError.swift": [1623832481, 8997634]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/Extensions/Date+Extension.swift": [1623832481, 9267240]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/Protocols/ErrorsTrackerProtocol.swift": [1623832481, 10151397]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/BaseClasses/Event.swift": [1623832481, 8110726]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/OtherHelpers/GeneralClosures.swift": [1623832481, 9719071]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/BaseClasses/Resolver.swift": [1623832481, 8306168]
+  "/Users/iuriidolotov/Desktop/\u0420\u0430\u0431\u043E\u0442\u0430/sMedia Apps/iOS/hidden-objects/Core Dev (2 libs, Achievements Module)/CoreUtils/CoreUtils/Classes/Extensions/TimeInterval+Extension.swift": [1623832481, 9449538]

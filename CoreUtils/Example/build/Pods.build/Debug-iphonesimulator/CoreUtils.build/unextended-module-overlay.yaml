@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/iuriidolotov/Desktop/Работа/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/Example/build/Debug-iphonesimulator/CoreUtils/CoreUtils.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/iuriidolotov/Desktop/Работа/Utility Man Ltd. EOOD Apps/CoreUtils/CoreUtils/Example/build/Pods.build/Debug-iphonesimulator/CoreUtils.build/unextended-module.modulemap",
+    }]
+  }]
+}

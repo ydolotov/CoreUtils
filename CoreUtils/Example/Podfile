@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CoreUtils_Example' do
+  pod 'CoreUtils', :path => '../'
+
+  target 'CoreUtils_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
